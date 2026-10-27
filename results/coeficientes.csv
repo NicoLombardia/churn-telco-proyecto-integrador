@@ -1,0 +1,34 @@
+variable,coeficiente,odds_ratio
+Contract_Two year,-1.4726,0.2293
+InternetService_Fiber optic,1.2106,3.3554
+tenure,-1.2087,0.2986
+Contract_One year,-0.7083,0.4925
+OnlineSecurity_Yes,-0.5049,0.6036
+TotalCharges,0.4911,1.6340
+TechSupport_Yes,-0.4787,0.6196
+PhoneService_Yes,-0.4260,0.6531
+n_servicios,0.3267,1.3864
+PaymentMethod_Electronic check,0.2993,1.3489
+PaperlessBilling_Yes,0.2902,1.3367
+OnlineBackup_Yes,-0.2666,0.7660
+StreamingTV_Yes,0.2607,1.2978
+Dependents_Yes,-0.2556,0.7745
+MultipleLines_Yes,0.2413,1.2729
+MonthlyCharges,-0.2361,0.7897
+cargo_promedio,-0.2322,0.7928
+StreamingMovies_Yes,0.1994,1.2206
+DeviceProtection_No internet service,-0.1693,0.8443
+TechSupport_No internet service,-0.1693,0.8443
+StreamingMovies_No internet service,-0.1693,0.8443
+InternetService_No,-0.1693,0.8443
+OnlineBackup_No internet service,-0.1693,0.8443
+OnlineSecurity_No internet service,-0.1693,0.8443
+StreamingTV_No internet service,-0.1693,0.8443
+SeniorCitizen_1,0.1490,1.1606
+DeviceProtection_Yes,-0.1361,0.8728
+MultipleLines_No phone service,-0.1223,0.8849
+PaymentMethod_Mailed check,0.0596,1.0614
+PaymentMethod_Credit card (automatic),-0.0449,0.9561
+dif_cargo,-0.0386,0.9621
+gender_Male,-0.0333,0.9673
+Partner_Yes,0.0094,1.0094

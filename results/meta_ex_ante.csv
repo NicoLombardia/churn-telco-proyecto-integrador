@@ -1,0 +1,8 @@
+criterio,valor
+"ROC AUC >= 0,85",0.8482
+Clientes a contactar para detectar 70 % de las bajas,0.3150
+Precisión en ese corte (meta >= 50 %),0.5915
+Captura con capacidad 20 % (modelo),0.5318
+Captura con capacidad 20 % (regla mes a mes al azar),0.3243
+Clientes a contactar para igualar la captura de la regla actual,0.4960
+Captura del modelo contactando la misma cantidad que la regla actual,0.8896

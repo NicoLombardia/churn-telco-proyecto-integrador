@@ -1,0 +1,7 @@
+modelo,roc_auc,pr_auc,accuracy_0.5,precision_0.5,recall_0.5,f1_0.5,pct_contactado,recall_top20,precision_top20,lift_top20
+Regresión Logística base,0.8482,0.6665,0.8154,0.6953,0.5418,0.6090,0.2000,0.5318,0.7035,2.6589
+Regresión Logística ampliada,0.8482,0.6673,0.8163,0.6949,0.5485,0.6131,0.2000,0.5318,0.7035,2.6589
+Random Forest,0.8494,0.6646,0.7995,0.6952,0.4348,0.5350,0.2000,0.5318,0.7035,2.6589
+XGBoost,0.8509,0.6708,0.8075,0.6952,0.4883,0.5737,0.2000,0.5284,0.6991,2.6421
+Regla actual: todos los mes a mes,,,,0.4302,0.8662,,0.5342,,,
+Contacto al azar (20 %),0.5000,0.2653,,,,,0.2000,0.2000,0.2653,1.0000

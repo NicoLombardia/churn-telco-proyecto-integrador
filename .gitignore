@@ -1,0 +1,6 @@
+data/*.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+docs/pg-*.jpg
+node_modules/

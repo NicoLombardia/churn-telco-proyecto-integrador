@@ -1,0 +1,5 @@
+modelo,pr_auc_ic_inf,pr_auc_ic_sup,recall_top20_ic_inf,recall_top20_ic_sup,dif_pr_auc_vs_RL_inf,dif_pr_auc_vs_RL_sup,dif_recall_top20_vs_RL_inf,dif_recall_top20_vs_RL_sup
+Regresión Logística base,0.6091,0.7244,0.4868,0.5786,-0.0044,0.0023,-0.0100,0.0065
+Regresión Logística ampliada,0.6110,0.7236,0.4893,0.5793,0.0000,0.0000,0.0000,0.0000
+Random Forest,0.6089,0.7240,0.4825,0.5825,-0.0259,0.0263,-0.0364,0.0307
+XGBoost,0.6147,0.7275,0.4772,0.5709,-0.0185,0.0288,-0.0390,0.0211

@@ -1,0 +1,11 @@
+Chequeo,Valor
+Celdas vacías en train,0.0000
+Celdas vacías en test,0.0000
+Filas duplicadas (sin ID),15.0000
+IDs repetidos entre train y test,0.0000
+Clientes con antigüedad 0 (train),8.0000
+"  de ellos con TotalCharges = 1397,475",8.0000
+Mediana de TotalCharges (train),1397.4750
+Clientes con antigüedad 0 (test),3.0000
+Correlación TotalCharges vs tenure × MonthlyCharges,0.9993
+Correlación TotalCharges vs tenure,0.8291

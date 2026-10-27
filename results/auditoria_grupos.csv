@@ -1,0 +1,9 @@
+variable,grupo,clientes,tasa_baja_real,pct_en_top20,recall_top20_grupo,precision_top20_grupo
+SeniorCitizen,0,936,0.2340,0.1624,0.4840,0.6974
+SeniorCitizen,1,191,0.4188,0.3874,0.6625,0.7162
+gender,Female,565,0.2549,0.2283,0.6181,0.6899
+gender,Male,562,0.2758,0.1726,0.4516,0.7216
+Partner,No,574,0.3136,0.2648,0.5833,0.6908
+Partner,Yes,553,0.2152,0.1338,0.4538,0.7297
+Dependents,No,799,0.3016,0.2491,0.5809,0.7035
+Dependents,Yes,328,0.1768,0.0823,0.3276,0.7037

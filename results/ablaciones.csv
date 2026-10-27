@@ -1,0 +1,7 @@
+configuracion,roc_auc,pr_auc,recall_top20
+Modelo completo,0.8482,0.6673,0.5318
+Sin gender,0.8485,0.6666,0.5284
+Sin SeniorCitizen,0.8479,0.6645,0.5385
+Sin gender ni SeniorCitizen,0.8482,0.6651,0.5385
+Sin TotalCharges,0.8464,0.6647,0.5351
+Sin variables nuevas,0.8482,0.6665,0.5318

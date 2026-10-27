@@ -1,0 +1,5 @@
+modelo,roc_auc_media,roc_auc_desvio,pr_auc_media,pr_auc_desvio,recall_top20_media,recall_top20_desvio
+Regresión Logística base,0.8449,0.0107,0.6602,0.0269,0.5042,0.0082
+Regresión Logística ampliada,0.8446,0.0107,0.6588,0.0271,0.5059,0.0086
+Random Forest,0.8446,0.0141,0.6664,0.0295,0.4967,0.0216
+XGBoost,0.8474,0.0114,0.6675,0.0280,0.5109,0.0113

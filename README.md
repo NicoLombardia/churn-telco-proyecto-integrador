@@ -1,6 +1,6 @@
 # Proyecto Final Integrador — Predicción de abandono de clientes en telecomunicaciones
 
-> Diplomado en Ciencia de Datos y Análisis Avanzado (UTN.BA) · Nicolás Alejo Lombardia · octubre 2026
+> Diplomado en Ciencia de Datos y Análisis Avanzado (UTN.BA) · Nicolás Alejo Lombardia · 2026
 
 Uno de cada cuatro clientes se da de baja y hoy Retención llama a todos los que pagan mes a mes
 (más de la mitad de la base). El proyecto construye un ranking de clientes según su riesgo de
